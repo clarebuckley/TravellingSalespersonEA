@@ -1,0 +1,12 @@
+Representation		- permutation
+Recombination		- order 1 crossover
+Recombination prob	- 100%
+Mutation		- 2-opt swap
+Mutation prob		- 70%
+Parent selection	- Tournament, k=10
+Survivor selection	- Elitism & steady state
+No. of offspring	- 1
+Population size		- 100
+Initialization		- Random
+Termination		- 100 generations
+Fitness evaluation	- minimise cost
